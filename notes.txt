@@ -1,0 +1,13 @@
+Shuffle main deck
+Make 2 decks with matching cards
+Layout each deck so that only one deck can be seen at once
+
+AI starts, picks 2 random cards
+Player picks 2 cards
+Repeat...
+
+All cards from deck 1 matched
+Players and AI play that deck
+Repeat until all decks done
+
+Winner is the one with the most matches
